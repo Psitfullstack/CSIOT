@@ -1,0 +1,15 @@
+ul{
+    display: flex;
+}
+
+li{
+    margin: 20px;
+    list-style: none;
+    
+}
+
+
+
+.container1{
+    background-color: aquamarine;
+}
