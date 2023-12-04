@@ -1,5 +1,6 @@
 ul{
     display: flex;
+    margin-bottom: 0px;
 }
 
 li{
@@ -12,4 +13,7 @@ li{
 
 .container1{
     background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
